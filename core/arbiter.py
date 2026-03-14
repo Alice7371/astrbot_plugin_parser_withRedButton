@@ -59,7 +59,7 @@ class EmojiLikeArbiter:
 
     # ================= 协议常量（严禁配置化） =================
 
-    _EMOJI_ID = 289
+    _EMOJI_ID = 424
     _EMOJI_TYPE = "1"
     _WAIT_SEC = 1.0
 
