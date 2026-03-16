@@ -15,4 +15,5 @@
 ---
 ## 🎉 致谢
 
+本项目fork自[astrbot_plugin_parser](https://github.com/Zhalslar/astrbot_plugin_parser)，请前往原仓库给作者点个Star!
 本项目核心代码来自[nonebot-plugin-parser](https://github.com/fllesser/nonebot-plugin-parser)，请前往原仓库给作者点个Star!
